@@ -40,7 +40,7 @@ class DatabaseAdapterTest extends TestCase
             'host'          => '127.0.0.1',
             'port'          => 3306,
             'user'          => 'root',
-            'password'      => '201916ab',
+            'password'      => '',
             'database'      => 'easyswoole_permission',
             'timeout'       => 5,
             'charset'       => 'utf8mb4',
